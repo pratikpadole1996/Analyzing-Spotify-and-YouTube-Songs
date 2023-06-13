@@ -1,4 +1,4 @@
-# Analyzing_Spotify_and_YouTube_Songs_Using_Python_and_MySQL
+# Analyzing_Spotify_and_YouTube_Songs_Using_Python_and_SQL
 
 Project Description
 This project will help you understand how a real-world database is analyzed using SQL, how to get maximum available insights from the dataset, pre-process the data using Python for better upcoming performance, how a structured query language helps us retrieve useful information from the database
